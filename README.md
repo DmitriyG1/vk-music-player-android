@@ -6,6 +6,12 @@ App on Google Play: [InTheMusic](https://play.google.com/store/apps/details?id=c
 ### VKontakte SDK
 You need to add and initialize VK Android SDK with version 1.5. GitHub: [vk-android-sdk](https://github.com/VKCOM/vk-android-sdk)
 
+Add this to the resource file, vk_scheme = vk+APP_ID
+```
+  <string name="scheme">vk_scheme</string>
+
+```
+
 ### AdMob Advertising Initialization
 Add this to the resource file
 ```
