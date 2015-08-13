@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_switch_text_cover"
+        android:icon="@drawable/ic_description_black_24dp"
+        android:title="@string/cover_lyrics"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_now_playing"
+        android:icon="@drawable/ic_queue_music_black_24dp"
+        android:title="@string/now_playing"
+        android:showAsAction="ifRoom" />
+</menu>

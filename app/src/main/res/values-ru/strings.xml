@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ВМузыке</string>
+
+    <string name="done_btn">Готово</string>
+    <string name="login_text">Войти</string>
+    <string name="cover_image_description">Обложка</string>
+    <string name="search">Поиск</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="user">Пользователь</string>
+    <string name="logout">Сменить пользователя</string>
+    <string name="lyrics_loading">Загрузка слов песни…</string>
+    <string name="loading">загрузка</string>
+    <string name="connecting">Подключение…</string>
+    <string name="media_player_error">Ошибка плеера</string>
+    <string name="now_playing">Сейчас играет</string>
+    <string name="cover_lyrics">Обложка/текст</string>
+    <string name="lyrics">Слова песни</string>
+    <string name="no_lyrics">Текст отсутствует</string>
+    <string name="version">Версия</string>
+    <string name="sure_logout_question">Вы действительно хотите деавторизовать данного пользователя?</string>
+    <string name="google_play_not_found">Приложение Google Play не найдено</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <!-- Управление порядком воспроизведения -->
+    <string name="shuffle_off">Случайное воспроизведение выключено</string>
+    <string name="shuffle_on">Случайное воспроизведение включено</string>
+
+    <string name="repeat_off">Повтор выключен</string>
+    <string name="repeat">Повтор всех треков</string>
+    <string name="repeat_one">Повтор данного трека</string>
+
+    <!-- Боковое Меню-->
+    <string-array name="main_menu_array">
+        <item>Мои аудиозаписи</item>
+        <item>Мои альбомы</item>
+        <item>Популярное</item>
+        <item>Поиск</item>
+        <item>Сейчас играет</item>
+        <item>Настройки</item>
+    </string-array>
+
+    <string name="drawer_open">Открыть боковое меню</string>
+    <string name="drawer_close">Закрыть боковое меню</string>
+</resources>

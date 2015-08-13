@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="logo">@android:color/transparent</item>
+        <item name="android:logo">@android:color/transparent</item>
+        <item name="displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+    </style>
+</resources>
