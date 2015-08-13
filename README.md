@@ -1,4 +1,4 @@
-# android-vk-mplayer
+# vk-music-player-android
 VKontakte music player for Android. Project uses VKontakte SDK and AdMob mobile advertising platform.
 
 App on Google Play: [InTheMusic](https://play.google.com/store/apps/details?id=com.blogspot.colibriapps.inthemusic)
